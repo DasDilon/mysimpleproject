@@ -1,0 +1,20 @@
+My name is Dilon and I am a Full Stack Developer.
+How to Push?
+
+1. Add
+    git add <file-name> 
+    (git add b.txt)
+    or, if we want to include all the files,
+    use:
+    git add.
+2. Commit Your Code.
+git commit -m/-am "Message"
+
+lets say we have multiple files:
+a.txt, b.txt, c.txt,
+
+When you want to commit all the files use
+-am, wherein a means all;
+
+when you do not want to commit all the 
+files, we use 'm'
